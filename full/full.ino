@@ -12,7 +12,7 @@ String hari;
 #include <Servo.h>
 
 Servo myservo;
-const int servoPin = D3;
+const int servoPin = D8;
 
 //Ultrasonic
 #include <Ultrasonic.h>
